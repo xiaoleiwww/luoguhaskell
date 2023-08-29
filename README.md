@@ -3,12 +3,6 @@ LuoguHaskell - a project dedicated to programming with Haskell on the Luogu Onli
 
 **LuoguHaskell** is a project dedicated to programming with Haskell on the Luogu Online Judge (Luogu) platform. Most code in this project is translated from c/c++ by chatgpt. Its goal is to provide Haskell enthusiasts and competitive programmers with an elegant way to solve problems, improving the program logic. The project includes a series of example code, and tools for using Haskell on Luogu.
 
-## Features
-
-- **Luogu Problem Examples:** Provides Haskell solution examples for common Luogu problems, covering various levels of difficulty and types of challenges to help you get started quickly.
-- **Code Templates and Tools:** Supplies generic Haskell code templates and potentially useful tools and libraries for competitive programming and problem solving.
-- **Community Support:** Encourages developers to share their problem-solving approaches and experiences. Engage in discussions, ask questions, and offer insights via GitHub Discussions or Issues to contribute to the project's growth.
-
 ## Usage
 
 1. Clone the repository or download the ZIP file.
